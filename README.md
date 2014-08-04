@@ -1,0 +1,1 @@
+A library for working with binomial price lattices and a collection of coding exercises done as part of Coursera's "Financial Engineering and Risk Management Part I" - https://www.coursera.org/course/fe1
